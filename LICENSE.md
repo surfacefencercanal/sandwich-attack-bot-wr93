@@ -1,4 +1,4 @@
-# 
+# rare Token Sniper for sandwich attack bot | take-profit & auto-sell offers the most advanced sandwich attack bot, with take-profit and auto-sell. Ideal for professional MEV and
 
 
 
